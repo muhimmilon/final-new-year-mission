@@ -105,8 +105,9 @@
   }
   
   .landing-page-design .group-wrapper {
-    background-image: url(./rectangle-15.png);
+    background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);;
     background-size: 100% 100%;
+    border-radius: 16px;
     height: 600px;
   }
   
@@ -810,7 +811,7 @@
   }
   
   .landing-page-design .group-35 {
-    background-image: url(./vector.svg);
+    background-image: url(../resources/Vectorrr.png);
     background-size: 100% 100%;
     height: 482px;
     left: 140px;
