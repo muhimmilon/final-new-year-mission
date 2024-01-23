@@ -174,12 +174,15 @@ white-space: nowrap;
   border-radius: 16px;
   height: 600px;
 }
-.landing-page-design .imager {
-  background-image: url(../resources/Group\ 70.png);
-  background-repeat: no-repeat;
-  height: 100%;
-  margin-left: 700px;
-  margin-top: 0%;
+.landing-page-design .imagerr {
+  display:inline-block;
+width: 319.83px;
+height: 464.662px;
+padding: 0.008px 0px 0px 0px;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+flex-shrink: 0;
 }
 .landing-page-design .textn {
   height: 246px;
@@ -198,7 +201,9 @@ white-space: nowrap;
   position: relative;
   width: 636px;
 }
-
+.landing-page-design .texttp {
+  display: inline-block;
+}
 .landing-page-design .textct {
   color: #FFF;
 font-family: Merriweather;
@@ -385,7 +390,8 @@ margin-top: 50px;
   left: 0;
   position: absolute;
   top: 6826px;
-  width: 1604px;
+  width: 1600px;
+flex-shrink: 0;
 }
 
 .landing-page-design .overlap-group {
@@ -803,7 +809,7 @@ flex-shrink: 0;
   height: 662px;
   left: 0;
   position: absolute;
-  top: 324px;
+  top: 200px;
   width: 1320px;
 }
 
