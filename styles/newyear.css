@@ -1,80 +1,702 @@
 .landing-page-design {
-    background-color: #ffffff;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    width: 100%;
-  }
-  
-  .landing-page-design .div {
-    background-color: #ffffff;
-    height: 7335px;
-    overflow: hidden;
-    position: relative;
-    width: 1600px;
-  }
-  
-  .landing-page-design .group {
-    height: 806px;
-    left: 399px;
-    position: absolute;
-    top: 770px;
-    width: 803px;
-  }
-  
-  .landing-page-design .div-wrapper {
-    height: 107px;
-    left: 209px;
-    position: absolute;
-    top: 0;
-    width: 385px;
-  }
-  
-  .landing-page-design .text-wrapper {
-    color: #ff0000;
-    font-family: "Inter-Bold", Helvetica;
-    font-size: 88px;
-    font-weight: 700;
-    left: 0;
-    letter-spacing: 0;
-    line-height: normal;
-    position: absolute;
-    text-align: center;
-    top: 0;
-  }
-  
-  .landing-page-design .group-2 {
-    height: 651px;
-    left: 0;
-    position: absolute;
-    top: 155px;
-    width: 803px;
-  }
-  
-  .landing-page-design .group-3 {
-    height: 103px;
-    left: 196px;
-    position: absolute;
-    top: 0;
-    width: 414px;
-  }
-  
-  .landing-page-design .p {
-    color: #ff0000;
-    font-family: "Inter-Medium", Helvetica;
-    font-size: 24px;
-    font-weight: 500;
-    left: 7px;
-    letter-spacing: 0;
-    line-height: normal;
-    position: absolute;
-    text-align: center;
-    margin-bottom: 100px;
-    top: 0;
-  }
-  
-  .landing-page-design .text-wrapper-2 {
-    color: #070211;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.landing-page-design .div {
+  background-color: #ffffff;
+  height: 7335px;
+  overflow: hidden;
+  position: relative;
+  width: 1600px;
+}
+
+.landing-page-design .group {
+  height: 806px;
+  left: 399px;
+  position: absolute;
+  top: 770px;
+  width: 803px;
+}
+
+.landing-page-design .div-wrapper {
+  height: 107px;
+  left: 209px;
+  position: absolute;
+  top: 0;
+  width: 385px;
+}
+
+.landing-page-design .text-wrapper {
+  color: #ff0000;
+  font-family: "Inter-Bold", Helvetica;
+  font-size: 88px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.landing-page-design .group-2 {
+  height: 651px;
+  left: 0;
+  position: absolute;
+  top: 155px;
+  width: 803px;
+}
+
+.landing-page-design .group-3 {
+  height: 103px;
+  left: 196px;
+  position: absolute;
+  top: 0;
+  width: 414px;
+}
+
+.landing-page-design .p {
+  color: #ff0000;
+  font-family: "Inter-Medium", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  left: 7px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  margin-bottom: 100px;
+  top: 0;
+}
+
+.landing-page-design .text-wrapper-2 {
+  color: #070211;
+font-family: "Inter-Bold", Helvetica;
+font-size: 48px;
+font-weight: 700;
+left: 0;
+letter-spacing: 0;
+line-height: normal;
+position: absolute;
+text-align: center;
+top: 60px;
+white-space: nowrap;
+
+
+}
+
+.landing-page-design .vector {
+  height: 500px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 151px;
+  width: 803px;
+}
+
+.landing-page-design .overlap {
+  background-image: url(../resources/Banner\ Image.png);
+  background-size: 100% 100%;
+  height: 600px;
+  left: 140px;
+  position: absolute;
+  top: 50px;
+  width: 1320px;
+}
+
+.landing-page-design .group-wrapper {
+  background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);;
+  background-size: 100% 100%;
+  border-radius: 16px;
+  height: 600px;
+}
+
+.landing-page-design .group-4 {
+  height: 246px;
+  left: 344px;
+  position: relative;
+  top: 177px;
+  width: 632px;
+}
+
+.landing-page-design .group-5 {
+  height: 246px;
+}
+
+.landing-page-design .group-6 {
+  height: 246px;
+  position: relative;
+  width: 636px;
+}
+
+.landing-page-design .text-wrapper-3 {
+  color: #ffffff;
+  font-family: "Merriweather-Regular", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 186px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.landing-page-design .text-wrapper-4 {
+  color: #ffffff;
+  font-family: "Merriweather-Black", Helvetica;
+  font-size: 72px;
+  font-weight: 900;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 95px;
+  position: absolute;
+  text-align: center;
+  top: 56px;
+  width: 632px;
+}
+.landing-page-design .group-35 {
+  background-image: url(../resources/Vectorrr.png);
+  background-size: 100% 100%;
+  height: 600px;
+  left: 140px;
+  position: absolute;
+  top: 1700px;
+  width: 1320px;
+}
+.landing-page-design .textback {
+  background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);;
+  background-size: 100% 100%;
+  border-radius: 16px;
+  height: 600px;
+}
+.landing-page-design .textn {
+  height: 246px;
+  left: 126px;
+  position: relative;
+  top: 100px;
+  width: 632px;
+}
+
+.landing-page-design .textm {
+  height: 246px;
+}
+
+.landing-page-design .texto {
+  height: 246px;
+  position: relative;
+  width: 636px;
+}
+
+.landing-page-design .textct {
+  color: #FFF;
+font-family: Merriweather;
+font-size: 64px;
+font-style: normal;
+font-weight: 900;
+line-height: 88px; /* 137.5% */
+letter-spacing: 7.04px;
+}
+
+.landing-page-design .textmt {
+  color: rgba(255, 255, 255, 0.80);
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 166.667% */
+}
+.landing-page-design .button1{
+  margin-top: 50px;
+  left: 158px;
+}
+.landing-page-design .buttonjoinnow{
+text-align: center;
+font-size: 20px;
+font-weight: 700;
+padding: 5px;
+}
+.landing-page-design .boxit {
+  background-image: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+  background-size: 100% 100%;
+  height: 482px;
+  left: 140px;
+  position: absolute;
+  top: 2450px;
+  width: 1320px;
+}
+
+.landing-page-design .group-7 {
+  height: 1163px;
+  left: 140px;
+  position: absolute;
+  top: 4707px;
+  width: 1320px;
+}
+
+.landing-page-design .group-8 {
+  height: 1163px;
+  position: relative;
+  width: 1326px;
+}
+
+.landing-page-design .text-wrapper-5 {
+  color: #ff0000;
+  font-family: "Inter-Medium", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.landing-page-design .text-wrapper-6 {
+  color: #070211;
+  font-family: "Merriweather-Black", Helvetica;
+  font-size: 48px;
+  font-weight: 900;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 45px;
+}
+
+.landing-page-design .text-wrapper-7 {
+  color: #07021199;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  top: 127px;
+  width: 896px;
+}
+
+.landing-page-design .rectangle {
+  height: 450px;
+  left: 0;
+  position: absolute;
+  top: 239px;
+  width: 424px;
+}
+
+.landing-page-design .rectangle-2 {
+  height: 450px;
+  left: 0;
+  position: absolute;
+  top: 713px;
+  width: 424px;
+}
+
+.landing-page-design .rectangle-3 {
+  height: 450px;
+  left: 448px;
+  object-fit: cover;
+  position: absolute;
+  top: 239px;
+  width: 424px;
+}
+
+.landing-page-design .rectangle-4 {
+  height: 450px;
+  left: 448px;
+  object-fit: cover;
+  position: absolute;
+  top: 713px;
+  width: 424px;
+}
+
+.landing-page-design .rectangle-5 {
+  height: 450px;
+  left: 896px;
+  object-fit: cover;
+  position: absolute;
+  top: 239px;
+  width: 424px;
+}
+
+.landing-page-design .rectangle-6 {
+  height: 450px;
+  left: 896px;
+  object-fit: cover;
+  position: absolute;
+  top: 713px;
+  width: 424px;
+}
+
+.landing-page-design .overlap-group-wrapper {
+  height: 609px;
+  left: 0;
+  position: absolute;
+  top: 6726px;
+  width: 1604px;
+}
+
+.landing-page-design .overlap-group {
+  background-color: #070211;
+  height: 609px;
+  position: relative;
+  width: 1600px;
+}
+
+.landing-page-design .line {
+  height: 1px;
+  left: 140px;
+  object-fit: cover;
+  position: absolute;
+  top: 249px;
+  width: 1320px;
+}
+
+.landing-page-design .line-2 {
+  height: 1px;
+  left: 140px;
+  object-fit: cover;
+  position: absolute;
+  top: 409px;
+  width: 1320px;
+}
+
+.landing-page-design .group-9 {
+  height: 64px;
+  left: 640px;
+  position: absolute;
+  top: 298px;
+  width: 328px;
+}
+
+.landing-page-design .group-10 {
+  height: 80px;
+  left: 140px;
+  position: absolute;
+  top: 120px;
+  width: 1187px;
+}
+
+.landing-page-design .element-big-building {
+  color: #ffffff;
+  font-family: "Inter-Medium", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 0;
+}
+
+.landing-page-design .group-11 {
+  height: 80px;
+  left: 934px;
+  position: absolute;
+  top: 0;
+  width: 251px;
+}
+
+.landing-page-design .group-12 {
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 40px;
+  width: 253px;
+}
+
+.landing-page-design .frame {
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 8px;
+  width: 24px;
+}
+
+.landing-page-design .text-wrapper-8 {
+  color: #ffffff;
+  font-family: "Inter-Medium", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  left: 40px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.landing-page-design .group-13 {
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 237px;
+}
+
+.landing-page-design .text-wrapper-9 {
+  color: #ffffff;
+  font-family: "Inter-Medium", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  left: 140px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 460px;
+}
+
+.landing-page-design .text-wrapper-10 {
+  color: #ffffff;
+  font-family: "Inter-Medium", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  left: 1315px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 460px;
+}
+
+.landing-page-design .group-14 {
+  background-color: #ff00000d;
+  border-radius: 16px;
+  height: 616px;
+  left: 140px;
+  position: absolute;
+  top: 5990px;
+  width: 1320px;
+}
+
+.landing-page-design .group-15 {
+  height: 336px;
+  left: 212px;
+  position: absolute;
+  top: 80px;
+  width: 896px;
+}
+
+.landing-page-design .group-16 {
+  height: 150px;
+  left: 373px;
+  position: absolute;
+  top: 0;
+  width: 150px;
+}
+
+.landing-page-design .group-17 {
+  height: 146px;
+  left: 0;
+  position: absolute;
+  top: 190px;
+  width: 900px;
+}
+
+.landing-page-design .text-wrapper-11 {
+  color: #070211;
+  font-family: "Merriweather-Black", Helvetica;
+  font-size: 48px;
+  font-weight: 900;
+  left: 192px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.landing-page-design .text-wrapper-12 {
+  color: #07021199;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  top: 82px;
+  width: 896px;
+}
+
+.landing-page-design .overlap-wrapper {
+  height: 72px;
+  left: 336px;
+  position: absolute;
+  top: 464px;
+  width: 650px;
+}
+
+.landing-page-design .overlap-2 {
+  height: 72px;
+  position: relative;
+}
+
+.landing-page-design .rectangle-7 {
+  background-color: #ffffff;
+  border-radius: 50px;
+  height: 72px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 648px;
+}
+
+.landing-page-design .text-wrapper-13 {
+  color: #0702114c;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 25px;
+}
+
+.landing-page-design .group-18 {
+  height: 72px;
+  left: 438px;
+  position: absolute;
+  top: 0;
+  width: 212px;
+}
+
+.landing-page-design .overlap-group-2 {
+  background-color: #ff0000;
+  border-radius: 0px 50px 50px 0px;
+  height: 72px;
+  position: relative;
+  width: 210px;
+}
+
+.landing-page-design .text-wrapper-14 {
+  color: #ffffff;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  left: 56px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 24px;
+  white-space: nowrap;
+}
+
+.landing-page-design .overlap-3 {
+  height: 465px;
+  left: 140px;
+  position: absolute;
+  top: 3018px;
+  width: 1320px;
+}
+
+.landing-page-design .group-19 {
+  height: 463px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1320px;
+}
+
+.landing-page-design .group-20 {
+  height: 255px;
+  left: 0;
+  position: absolute;
+  top: 104px;
+  width: 395px;
+}
+
+.landing-page-design .group-21 {
+  height: 105px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 332px;
+}
+
+.landing-page-design .text-wrapper-15 {
+  color: #ff0000;
+  font-family: "Inter-Medium", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.landing-page-design .text-wrapper-16 {
+  color: #07021199;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  top: 127px;
+  width: 393px;
+}
+
+.landing-page-design .group-22 {
+  height: 463px;
+  left: 463px;
+  position: absolute;
+  top: 0;
+  width: 463px;
+}
+
+.landing-page-design .overlap-group-3 {
+  border-radius: 231.5px;
+  height: 463px;
+  position: relative;
+}
+
+.landing-page-design .ellipse {
+  height: 365px;
+  left: 49px;
+  position: absolute;
+  top: 49px;
+  width: 365px;
+}
+
+.landing-page-design .ellipse-2 {
+  border: 15px solid;
+  border-color: #ff0000;
+  border-radius: 231.5px;
+  height: 463px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 463px;
+}
+
+.landing-page-design .group-23 {
+  height: 170px;
+  left: 1044px;
+  position: absolute;
+  top: 112px;
+  width: 276px;
+}
+
+.landing-page-design .group-24 {
+  height: 170px;
+  position: relative;
+  width: 280px;
+}
+
+.landing-page-design .text-wrapper-17 {
+  color: #ff0000;
   font-family: "Inter-Bold", Helvetica;
   font-size: 48px;
   font-weight: 700;
@@ -82,793 +704,222 @@
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
+  top: 0;
+}
+
+.landing-page-design .text-wrapper-18 {
+  color: #07021199;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  top: 74px;
+  width: 276px;
+}
+
+.landing-page-design .group-25 {
+  height: 140px;
+  left: 1044px;
+  position: absolute;
+  top: 325px;
+  width: 140px;
+}
+
+.landing-page-design .group-26 {
+  height: 986px;
+  left: 140px;
+  position: absolute;
+  top: 3601px;
+  width: 1320px;
+}
+
+.landing-page-design .overlap-4 {
+  height: 986px;
+  position: relative;
+}
+
+.landing-page-design .group-27 {
+  height: 986px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1320px;
+}
+
+.landing-page-design .group-28 {
+  height: 662px;
+  left: 0;
+  position: absolute;
+  top: 324px;
+  width: 1320px;
+}
+
+.landing-page-design .overlap-group-4 {
+  height: 662px;
+  position: relative;
+}
+
+.landing-page-design .rectangle-8 {
+  height: 229px;
+  left: 0;
+  position: absolute;
+  top: 433px;
+  width: 1320px;
+}
+
+.landing-page-design .group-29 {
+  height: 662px;
+  left: 0;
+  position:absolute;
+  top: 0;
+  width: 796px;
+}
+
+.landing-page-design .group-30 {
+  height: 260px;
+  left: 126px;
+  position: absolute;
+  top: 0;
+  width: 1070px;
+}
+
+.landing-page-design .group-31 {
+  height: 136px;
+  left: 195px;
+  position: absolute;
+  top: 0;
+  width: 677px;
+}
+
+.landing-page-design .group-32 {
+  height: 136px;
+  position: relative;
+  width: 681px;
+}
+
+.landing-page-design .text-wrapper-19 {
+  color: #070211;
+  font-family: "Inter-Medium", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  left: 207px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.landing-page-design .holidays-sale {
+  color: transparent;
+  font-family: "Merriweather-Black", Helvetica;
+  font-size: 72px;
+  font-weight: 900;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
   text-align: center;
-  top: 60px;
+  top: 45px;
+}
+
+.landing-page-design .span {
+  color: #ff0000;
+}
+
+.landing-page-design .text-wrapper-20 {
+  color: #070211;
+}
+
+.landing-page-design .dolor-sit-amet {
+  color: #07021199;
+  font-family: "Inter-Medium", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  top: 164px;
+  width: 1068px;
+}
+
+.landing-page-design .group-33 {
+  height: 433px;
+  left: 738px;
+  position: absolute;
+  top: 324px;
+  width: 582px;
+}
+
+.landing-page-design .overlap-5 {
+  height: 433px;
+  position: relative;
+}
+
+.landing-page-design .rectangle-9 {
+  height: 433px;
+  left: 153px;
+  position: absolute;
+  top: 0;
+  width: 429px;
+}
+
+.landing-page-design .group-34 {
+  height: 306px;
+  left: 0;
+  position: absolute;
+  top: 77px;
+  width: 306px;
+}
+
+.landing-page-design .group-36 {
+  height: 272px;
+  left: 385px;
+  position: relative;
+  top: 100px;
+  width: 551px;
+}
+
+.landing-page-design .place-new-park-hotel {
+  color: transparent;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-size: 32px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 56px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.landing-page-design .join-now-wrapper {
+  align-items: center;
+  background-color: #ff0000;
+  border-radius: 8px;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  left: 191px;
+  padding: 16px 32px;
+  position: absolute;
+  top: 216px;
+}
+
+.landing-page-design .join-now {
+  color: #ffffff;
+  font-family: "Inter-Bold", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
   white-space: nowrap;
-
-
-  }
-  
-  .landing-page-design .vector {
-    height: 500px;
-    left: 0;
-    object-fit: cover;
-    position: absolute;
-    top: 151px;
-    width: 803px;
-  }
-  
-  .landing-page-design .overlap {
-    background-image: url(../resources/Banner\ Image.png);
-    background-size: 100% 100%;
-    height: 600px;
-    left: 140px;
-    position: absolute;
-    top: 50px;
-    width: 1320px;
-  }
-  
-  .landing-page-design .group-wrapper {
-    background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);;
-    background-size: 100% 100%;
-    border-radius: 16px;
-    height: 600px;
-  }
-  
-  .landing-page-design .group-4 {
-    height: 246px;
-    left: 344px;
-    position: relative;
-    top: 177px;
-    width: 632px;
-  }
-  
-  .landing-page-design .group-5 {
-    height: 246px;
-  }
-  
-  .landing-page-design .group-6 {
-    height: 246px;
-    position: relative;
-    width: 636px;
-  }
-  
-  .landing-page-design .text-wrapper-3 {
-    color: #ffffff;
-    font-family: "Merriweather-Regular", Helvetica;
-    font-size: 32px;
-    font-weight: 400;
-    left: 186px;
-    letter-spacing: 0;
-    line-height: normal;
-    position: absolute;
-    text-align: center;
-    top: 0;
-  }
-  
-  .landing-page-design .text-wrapper-4 {
-    color: #ffffff;
-    font-family: "Merriweather-Black", Helvetica;
-    font-size: 72px;
-    font-weight: 900;
-    left: 0;
-    letter-spacing: 0;
-    line-height: 95px;
-    position: absolute;
-    text-align: center;
-    top: 56px;
-    width: 632px;
-  }
-  
-  .landing-page-design .img {
-    height: 600px;
-    left: 140px;
-    position: absolute;
-    top: 1696px;
-    width: 1320px;
-  }
-  
-  .landing-page-design .group-7 {
-    height: 1163px;
-    left: 140px;
-    position: absolute;
-    top: 4707px;
-    width: 1320px;
-  }
-  
-  .landing-page-design .group-8 {
-    height: 1163px;
-    position: relative;
-    width: 1326px;
-  }
-  
-  .landing-page-design .text-wrapper-5 {
-    color: #ff0000;
-    font-family: "Inter-Medium", Helvetica;
-    font-size: 24px;
-    font-weight: 500;
-    left: 0;
-    letter-spacing: 0;
-    line-height: normal;
-    position: absolute;
-    top: 0;
-  }
-  
-  .landing-page-design .text-wrapper-6 {
-    color: #070211;
-    font-family: "Merriweather-Black", Helvetica;
-    font-size: 48px;
-    font-weight: 900;
-    left: 0;
-    letter-spacing: 0;
-    line-height: normal;
-    position: absolute;
-    top: 45px;
-  }
-  
-  .landing-page-design .text-wrapper-7 {
-    color: #07021199;
-    font-family: "Inter-Regular", Helvetica;
-    font-size: 20px;
-    font-weight: 400;
-    left: 0;
-    letter-spacing: 0;
-    line-height: 32px;
-    position: absolute;
-    top: 127px;
-    width: 896px;
-  }
-  
-  .landing-page-design .rectangle {
-    height: 450px;
-    left: 0;
-    position: absolute;
-    top: 239px;
-    width: 424px;
-  }
-  
-  .landing-page-design .rectangle-2 {
-    height: 450px;
-    left: 0;
-    position: absolute;
-    top: 713px;
-    width: 424px;
-  }
-  
-  .landing-page-design .rectangle-3 {
-    height: 450px;
-    left: 448px;
-    object-fit: cover;
-    position: absolute;
-    top: 239px;
-    width: 424px;
-  }
-  
-  .landing-page-design .rectangle-4 {
-    height: 450px;
-    left: 448px;
-    object-fit: cover;
-    position: absolute;
-    top: 713px;
-    width: 424px;
-  }
-  
-  .landing-page-design .rectangle-5 {
-    height: 450px;
-    left: 896px;
-    object-fit: cover;
-    position: absolute;
-    top: 239px;
-    width: 424px;
-  }
-  
-  .landing-page-design .rectangle-6 {
-    height: 450px;
-    left: 896px;
-    object-fit: cover;
-    position: absolute;
-    top: 713px;
-    width: 424px;
-  }
-  
-  .landing-page-design .overlap-group-wrapper {
-    height: 609px;
-    left: 0;
-    position: absolute;
-    top: 6726px;
-    width: 1604px;
-  }
-  
-  .landing-page-design .overlap-group {
-    background-color: #070211;
-    height: 609px;
-    position: relative;
-    width: 1600px;
-  }
-  
-  .landing-page-design .line {
-    height: 1px;
-    left: 140px;
-    object-fit: cover;
-    position: absolute;
-    top: 249px;
-    width: 1320px;
-  }
-  
-  .landing-page-design .line-2 {
-    height: 1px;
-    left: 140px;
-    object-fit: cover;
-    position: absolute;
-    top: 409px;
-    width: 1320px;
-  }
-  
-  .landing-page-design .group-9 {
-    height: 64px;
-    left: 640px;
-    position: absolute;
-    top: 298px;
-    width: 328px;
-  }
-  
-  .landing-page-design .group-10 {
-    height: 80px;
-    left: 140px;
-    position: absolute;
-    top: 120px;
-    width: 1187px;
-  }
-  
-  .landing-page-design .element-big-building {
-    color: #ffffff;
-    font-family: "Inter-Medium", Helvetica;
-    font-size: 24px;
-    font-weight: 500;
-    left: 0;
-    letter-spacing: 0;
-    line-height: 40px;
-    position: absolute;
-    top: 0;
-  }
-  
-  .landing-page-design .group-11 {
-    height: 80px;
-    left: 934px;
-    position: absolute;
-    top: 0;
-    width: 251px;
-  }
-  
-  .landing-page-design .group-12 {
-    height: 40px;
-    left: 0;
-    position: absolute;
-    top: 40px;
-    width: 253px;
-  }
-  
-  .landing-page-design .frame {
-    height: 24px;
-    left: 0;
-    position: absolute;
-    top: 8px;
-    width: 24px;
-  }
-  
-  .landing-page-design .text-wrapper-8 {
-    color: #ffffff;
-    font-family: "Inter-Medium", Helvetica;
-    font-size: 24px;
-    font-weight: 500;
-    left: 40px;
-    letter-spacing: 0;
-    line-height: 40px;
-    position: absolute;
-    top: 0;
-    white-space: nowrap;
-  }
-  
-  .landing-page-design .group-13 {
-    height: 40px;
-    left: 0;
-    position: absolute;
-    top: 0;
-    width: 237px;
-  }
-  
-  .landing-page-design .text-wrapper-9 {
-    color: #ffffff;
-    font-family: "Inter-Medium", Helvetica;
-    font-size: 24px;
-    font-weight: 500;
-    left: 140px;
-    letter-spacing: 0;
-    line-height: normal;
-    position: absolute;
-    top: 460px;
-  }
-  
-  .landing-page-design .text-wrapper-10 {
-    color: #ffffff;
-    font-family: "Inter-Medium", Helvetica;
-    font-size: 24px;
-    font-weight: 500;
-    left: 1315px;
-    letter-spacing: 0;
-    line-height: normal;
-    position: absolute;
-    top: 460px;
-  }
-  
-  .landing-page-design .group-14 {
-    background-color: #ff00000d;
-    border-radius: 16px;
-    height: 616px;
-    left: 140px;
-    position: absolute;
-    top: 5990px;
-    width: 1320px;
-  }
-  
-  .landing-page-design .group-15 {
-    height: 336px;
-    left: 212px;
-    position: absolute;
-    top: 80px;
-    width: 896px;
-  }
-  
-  .landing-page-design .group-16 {
-    height: 150px;
-    left: 373px;
-    position: absolute;
-    top: 0;
-    width: 150px;
-  }
-  
-  .landing-page-design .group-17 {
-    height: 146px;
-    left: 0;
-    position: absolute;
-    top: 190px;
-    width: 900px;
-  }
-  
-  .landing-page-design .text-wrapper-11 {
-    color: #070211;
-    font-family: "Merriweather-Black", Helvetica;
-    font-size: 48px;
-    font-weight: 900;
-    left: 192px;
-    letter-spacing: 0;
-    line-height: normal;
-    position: absolute;
-    text-align: center;
-    top: 0;
-  }
-  
-  .landing-page-design .text-wrapper-12 {
-    color: #07021199;
-    font-family: "Inter-Regular", Helvetica;
-    font-size: 20px;
-    font-weight: 400;
-    left: 0;
-    letter-spacing: 0;
-    line-height: 32px;
-    position: absolute;
-    text-align: center;
-    top: 82px;
-    width: 896px;
-  }
-  
-  .landing-page-design .overlap-wrapper {
-    height: 72px;
-    left: 336px;
-    position: absolute;
-    top: 464px;
-    width: 650px;
-  }
-  
-  .landing-page-design .overlap-2 {
-    height: 72px;
-    position: relative;
-  }
-  
-  .landing-page-design .rectangle-7 {
-    background-color: #ffffff;
-    border-radius: 50px;
-    height: 72px;
-    left: 0;
-    position: absolute;
-    top: 0;
-    width: 648px;
-  }
-  
-  .landing-page-design .text-wrapper-13 {
-    color: #0702114c;
-    font-family: "Inter-Regular", Helvetica;
-    font-size: 18px;
-    font-weight: 400;
-    left: 30px;
-    letter-spacing: 0;
-    line-height: normal;
-    position: absolute;
-    text-align: center;
-    top: 25px;
-  }
-  
-  .landing-page-design .group-18 {
-    height: 72px;
-    left: 438px;
-    position: absolute;
-    top: 0;
-    width: 212px;
-  }
-  
-  .landing-page-design .overlap-group-2 {
-    background-color: #ff0000;
-    border-radius: 0px 50px 50px 0px;
-    height: 72px;
-    position: relative;
-    width: 210px;
-  }
-  
-  .landing-page-design .text-wrapper-14 {
-    color: #ffffff;
-    font-family: "Inter-SemiBold", Helvetica;
-    font-size: 20px;
-    font-weight: 600;
-    left: 56px;
-    letter-spacing: 0;
-    line-height: normal;
-    position: absolute;
-    text-align: center;
-    top: 24px;
-    white-space: nowrap;
-  }
-  
-  .landing-page-design .overlap-3 {
-    height: 465px;
-    left: 140px;
-    position: absolute;
-    top: 3018px;
-    width: 1320px;
-  }
-  
-  .landing-page-design .group-19 {
-    height: 463px;
-    left: 0;
-    position: absolute;
-    top: 0;
-    width: 1320px;
-  }
-  
-  .landing-page-design .group-20 {
-    height: 255px;
-    left: 0;
-    position: absolute;
-    top: 104px;
-    width: 395px;
-  }
-  
-  .landing-page-design .group-21 {
-    height: 105px;
-    left: 0;
-    position: absolute;
-    top: 0;
-    width: 332px;
-  }
-  
-  .landing-page-design .text-wrapper-15 {
-    color: #ff0000;
-    font-family: "Inter-Medium", Helvetica;
-    font-size: 24px;
-    font-weight: 500;
-    left: 0;
-    letter-spacing: 0;
-    line-height: normal;
-    position: absolute;
-    text-align: center;
-    top: 0;
-  }
-  
-  .landing-page-design .text-wrapper-16 {
-    color: #07021199;
-    font-family: "Inter-Regular", Helvetica;
-    font-size: 20px;
-    font-weight: 400;
-    left: 0;
-    letter-spacing: 0;
-    line-height: 32px;
-    position: absolute;
-    top: 127px;
-    width: 393px;
-  }
-  
-  .landing-page-design .group-22 {
-    height: 463px;
-    left: 463px;
-    position: absolute;
-    top: 0;
-    width: 463px;
-  }
-  
-  .landing-page-design .overlap-group-3 {
-    border-radius: 231.5px;
-    height: 463px;
-    position: relative;
-  }
-  
-  .landing-page-design .ellipse {
-    height: 365px;
-    left: 49px;
-    position: absolute;
-    top: 49px;
-    width: 365px;
-  }
-  
-  .landing-page-design .ellipse-2 {
-    border: 15px solid;
-    border-color: #ff0000;
-    border-radius: 231.5px;
-    height: 463px;
-    left: 0;
-    position: absolute;
-    top: 0;
-    width: 463px;
-  }
-  
-  .landing-page-design .group-23 {
-    height: 170px;
-    left: 1044px;
-    position: absolute;
-    top: 112px;
-    width: 276px;
-  }
-  
-  .landing-page-design .group-24 {
-    height: 170px;
-    position: relative;
-    width: 280px;
-  }
-  
-  .landing-page-design .text-wrapper-17 {
-    color: #ff0000;
-    font-family: "Inter-Bold", Helvetica;
-    font-size: 48px;
-    font-weight: 700;
-    left: 0;
-    letter-spacing: 0;
-    line-height: normal;
-    position: absolute;
-    top: 0;
-  }
-  
-  .landing-page-design .text-wrapper-18 {
-    color: #07021199;
-    font-family: "Inter-Regular", Helvetica;
-    font-size: 20px;
-    font-weight: 400;
-    left: 0;
-    letter-spacing: 0;
-    line-height: 32px;
-    position: absolute;
-    top: 74px;
-    width: 276px;
-  }
-  
-  .landing-page-design .group-25 {
-    height: 140px;
-    left: 1044px;
-    position: absolute;
-    top: 325px;
-    width: 140px;
-  }
-  
-  .landing-page-design .group-26 {
-    height: 986px;
-    left: 140px;
-    position: absolute;
-    top: 3601px;
-    width: 1320px;
-  }
-  
-  .landing-page-design .overlap-4 {
-    height: 986px;
-    position: relative;
-  }
-  
-  .landing-page-design .group-27 {
-    height: 986px;
-    left: 0;
-    position: absolute;
-    top: 0;
-    width: 1320px;
-  }
-  
-  .landing-page-design .group-28 {
-    height: 662px;
-    left: 0;
-    position: absolute;
-    top: 324px;
-    width: 1320px;
-  }
-  
-  .landing-page-design .overlap-group-4 {
-    height: 662px;
-    position: relative;
-  }
-  
-  .landing-page-design .rectangle-8 {
-    height: 229px;
-    left: 0;
-    position: absolute;
-    top: 433px;
-    width: 1320px;
-  }
-  
-  .landing-page-design .group-29 {
-    height: 662px;
-    left: 0;
-    position:absolute;
-    top: 0;
-    width: 796px;
-  }
-  
-  .landing-page-design .group-30 {
-    height: 260px;
-    left: 126px;
-    position: absolute;
-    top: 0;
-    width: 1070px;
-  }
-  
-  .landing-page-design .group-31 {
-    height: 136px;
-    left: 195px;
-    position: absolute;
-    top: 0;
-    width: 677px;
-  }
-  
-  .landing-page-design .group-32 {
-    height: 136px;
-    position: relative;
-    width: 681px;
-  }
-  
-  .landing-page-design .text-wrapper-19 {
-    color: #070211;
-    font-family: "Inter-Medium", Helvetica;
-    font-size: 24px;
-    font-weight: 500;
-    left: 207px;
-    letter-spacing: 0;
-    line-height: normal;
-    position: absolute;
-    top: 0;
-  }
-  
-  .landing-page-design .holidays-sale {
-    color: transparent;
-    font-family: "Merriweather-Black", Helvetica;
-    font-size: 72px;
-    font-weight: 900;
-    left: 0;
-    letter-spacing: 0;
-    line-height: normal;
-    position: absolute;
-    text-align: center;
-    top: 45px;
-  }
-  
-  .landing-page-design .span {
-    color: #ff0000;
-  }
-  
-  .landing-page-design .text-wrapper-20 {
-    color: #070211;
-  }
-  
-  .landing-page-design .dolor-sit-amet {
-    color: #07021199;
-    font-family: "Inter-Medium", Helvetica;
-    font-size: 20px;
-    font-weight: 500;
-    left: 0;
-    letter-spacing: 0;
-    line-height: 32px;
-    position: absolute;
-    text-align: center;
-    top: 164px;
-    width: 1068px;
-  }
-  
-  .landing-page-design .group-33 {
-    height: 433px;
-    left: 738px;
-    position: absolute;
-    top: 324px;
-    width: 582px;
-  }
-  
-  .landing-page-design .overlap-5 {
-    height: 433px;
-    position: relative;
-  }
-  
-  .landing-page-design .rectangle-9 {
-    height: 433px;
-    left: 153px;
-    position: absolute;
-    top: 0;
-    width: 429px;
-  }
-  
-  .landing-page-design .group-34 {
-    height: 306px;
-    left: 0;
-    position: absolute;
-    top: 77px;
-    width: 306px;
-  }
-  
-  .landing-page-design .group-35 {
-    background-image: url(../resources/Vectorrr.png);
-    background-size: 100% 100%;
-    height: 482px;
-    left: 140px;
-    position: absolute;
-    top: 2416px;
-    width: 1320px;
-  }
-  
-  .landing-page-design .group-36 {
-    height: 272px;
-    left: 385px;
-    position: relative;
-    top: 100px;
-    width: 551px;
-  }
-  
-  .landing-page-design .place-new-park-hotel {
-    color: transparent;
-    font-family: "Inter-SemiBold", Helvetica;
-    font-size: 32px;
-    font-weight: 600;
-    left: 0;
-    letter-spacing: 0;
-    line-height: 56px;
-    position: absolute;
-    text-align: center;
-    top: 0;
-  }
-  
-  .landing-page-design .join-now-wrapper {
-    align-items: center;
-    background-color: #ff0000;
-    border-radius: 8px;
-    display: inline-flex;
-    gap: 10px;
-    justify-content: center;
-    left: 191px;
-    padding: 16px 32px;
-    position: absolute;
-    top: 216px;
-  }
-  
-  .landing-page-design .join-now {
-    color: #ffffff;
-    font-family: "Inter-Bold", Helvetica;
-    font-size: 20px;
-    font-weight: 700;
-    letter-spacing: 0;
-    line-height: normal;
-    margin-top: -1px;
-    position: relative;
-    text-align: center;
-    white-space: nowrap;
-    width: fit-content;
-  }
-  
+  width: fit-content;
+}
