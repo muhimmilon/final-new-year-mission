@@ -22,7 +22,7 @@
   width: 803px;
 }
 
-.happy-new-year .div-wrapper {
+.happy-new-year .divwrapper {
   height: 107px;
   left: 209px;
   position: absolute;
@@ -30,7 +30,7 @@
   width: 385px;
 }
 
-.happy-new-year .text-wrapper {
+.happy-new-year .textwrapper {
   color: #ff0000;
   font-family: "Inter-Bold", Helvetica;
   font-size: 88px;
@@ -43,7 +43,7 @@
   top: 0;
 }
 
-.happy-new-year .group-2 {
+.happy-new-year .group2 {
   height: 651px;
   left: 0;
   position: absolute;
@@ -51,7 +51,7 @@
   width: 803px;
 }
 
-.happy-new-year .group-3 {
+.happy-new-year .group3 {
   height: 103px;
   left: 196px;
   position: absolute;
@@ -73,7 +73,7 @@
   top: 0;
 }
 
-.happy-new-year .text-wrapper-2 {
+.happy-new-year .textwrapper2 {
   color: #070211;
 font-family: "Inter-Bold", Helvetica;
 font-size: 48px;
@@ -108,14 +108,14 @@ white-space: nowrap;
   width: 1320px;
 }
 
-.happy-new-year .group-wrapper {
+.happy-new-year .groupwrapper {
   background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);;
   background-size: 100% 100%;
   border-radius: 16px;
   height: 600px;
 }
 
-.happy-new-year .group-4 {
+.happy-new-year .group4 {
   height: 246px;
   left: 344px;
   position: relative;
@@ -123,17 +123,17 @@ white-space: nowrap;
   width: 632px;
 }
 
-.happy-new-year .group-5 {
+.happy-new-year .group5 {
   height: 246px;
 }
 
-.happy-new-year .group-6 {
+.happy-new-year .group6 {
   height: 246px;
   position: relative;
   width: 636px;
 }
 
-.happy-new-year .text-wrapper-3 {
+.happy-new-year .textwrapper3 {
   color: #ffffff;
   font-family: "Merriweather-Regular", Helvetica;
   font-size: 32px;
@@ -146,7 +146,7 @@ white-space: nowrap;
   top: 0;
 }
 
-.happy-new-year .text-wrapper-4 {
+.happy-new-year .textwrapper4 {
   color: #ffffff;
   font-family: "Merriweather-Black", Helvetica;
   font-size: 72px;
@@ -159,7 +159,7 @@ white-space: nowrap;
   top: 56px;
   width: 632px;
 }
-.happy-new-year .group-35 {
+.happy-new-year .group35 {
   background-image: url(../resources/Vectorrr.png);
   background-size: 100% 100%;
   height: 600px;
@@ -282,7 +282,7 @@ margin-top: 50px;
   font-weight: 700;
   padding: 5px;
 }
-.happy-new-year .group-7 {
+.happy-new-year .group7 {
   height: 1163px;
   left: 140px;
   position: absolute;
@@ -290,13 +290,13 @@ margin-top: 50px;
   width: 1320px;
 }
 
-.happy-new-year .group-8 {
+.happy-new-year .group8 {
   height: 1163px;
   position: relative;
   width: 1326px;
 }
 
-.happy-new-year .text-wrapper-5 {
+.happy-new-year .textwrapper5 {
   color: #ff0000;
   font-family: "Inter-Medium", Helvetica;
   font-size: 24px;
@@ -308,7 +308,7 @@ margin-top: 50px;
   top: 0;
 }
 
-.happy-new-year .text-wrapper-6 {
+.happy-new-year .textwrapper6 {
   color: #070211;
   font-family: "Merriweather-Black", Helvetica;
   font-size: 48px;
@@ -320,7 +320,7 @@ margin-top: 50px;
   top: 45px;
 }
 
-.happy-new-year .text-wrapper-7 {
+.happy-new-year .textwrapper7 {
   color: #07021199;
   font-family: "Inter-Regular", Helvetica;
   font-size: 20px;
@@ -341,7 +341,7 @@ margin-top: 50px;
   width: 424px;
 }
 
-.happy-new-year .rectangle-2 {
+.happy-new-year .rectangle2 {
   height: 450px;
   left: 0;
   position: absolute;
@@ -349,7 +349,7 @@ margin-top: 50px;
   width: 424px;
 }
 
-.happy-new-year .rectangle-3 {
+.happy-new-year .rectangle3 {
   height: 450px;
   left: 448px;
   object-fit: cover;
@@ -358,7 +358,7 @@ margin-top: 50px;
   width: 424px;
 }
 
-.happy-new-year .rectangle-4 {
+.happy-new-year .rectangle4 {
   height: 450px;
   left: 448px;
   object-fit: cover;
@@ -367,7 +367,7 @@ margin-top: 50px;
   width: 424px;
 }
 
-.happy-new-year .rectangle-5 {
+.happy-new-year .rectangle5 {
   height: 450px;
   left: 896px;
   object-fit: cover;
@@ -376,7 +376,7 @@ margin-top: 50px;
   width: 424px;
 }
 
-.happy-new-year .rectangle-6 {
+.happy-new-year .rectangle6 {
   height: 450px;
   left: 896px;
   object-fit: cover;
@@ -385,7 +385,7 @@ margin-top: 50px;
   width: 424px;
 }
 
-.happy-new-year .overlap-group-wrapper {
+.happy-new-year .overlapgroupwrapper {
   height: 609px;
   left: 0;
   position: absolute;
@@ -394,7 +394,7 @@ margin-top: 50px;
 flex-shrink: 0;
 }
 
-.happy-new-year .overlap-group {
+.happy-new-year .overlapgroup {
   background-color: #070211;
   height: 609px;
   position: relative;
@@ -410,7 +410,7 @@ flex-shrink: 0;
   width: 1320px;
 }
 
-.happy-new-year .line-2 {
+.happy-new-year .line2 {
   height: 1px;
   left: 140px;
   background: rgba(255, 255, 255, 0.15);
@@ -419,7 +419,7 @@ flex-shrink: 0;
   width: 1320px;
 }
 
-.happy-new-year .group-9 {
+.happy-new-year .group9 {
   width: 64px;
 height: 64px;
 flex-shrink: 0;
@@ -430,7 +430,7 @@ flex-shrink: 0;
   margin-top: 298px;
   margin-left: 640px;
 }
-.happy-new-year .group-10 {
+.happy-new-year .group10 {
   height: 80px;
   left: 140px;
   position: absolute;
@@ -438,7 +438,7 @@ flex-shrink: 0;
   width: 1187px;
 }
 
-.happy-new-year .element-big-building {
+.happy-new-year .elementbigbuilding {
   color: #ffffff;
   font-family: "Inter-Medium", Helvetica;
   font-size: 24px;
@@ -450,7 +450,7 @@ flex-shrink: 0;
   top: 0;
 }
 
-.happy-new-year .group-11 {
+.happy-new-year .group11 {
   height: 80px;
   left: 934px;
   position: absolute;
@@ -458,7 +458,7 @@ flex-shrink: 0;
   width: 251px;
 }
 
-.happy-new-year .group-12 {
+.happy-new-year .group12 {
   height: 40px;
   left: 0;
   position: absolute;
@@ -474,7 +474,7 @@ flex-shrink: 0;
   width: 24px;
 }
 
-.happy-new-year .text-wrapper-8 {
+.happy-new-year .textwrapper8 {
   color: #ffffff;
   font-family: "Inter-Medium", Helvetica;
   font-size: 24px;
@@ -487,7 +487,7 @@ flex-shrink: 0;
   white-space: nowrap;
 }
 
-.happy-new-year .group-13 {
+.happy-new-year .group13 {
   height: 40px;
   left: 0;
   position: absolute;
@@ -495,7 +495,7 @@ flex-shrink: 0;
   width: 237px;
 }
 
-.happy-new-year .text-wrapper-9 {
+.happy-new-year .textwrapper9 {
   color: #ffffff;
   font-family: "Inter-Medium", Helvetica;
   font-size: 24px;
@@ -507,7 +507,7 @@ flex-shrink: 0;
   top: 460px;
 }
 
-.happy-new-year .text-wrapper-10 {
+.happy-new-year .textwrapper10 {
   color: #ffffff;
   font-family: "Inter-Medium", Helvetica;
   font-size: 24px;
@@ -519,7 +519,7 @@ flex-shrink: 0;
   top: 460px;
 }
 
-.happy-new-year .group-14 {
+.happy-new-year .group14 {
   background-color: #ff00000d;
   border-radius: 16px;
   height: 616px;
@@ -529,7 +529,7 @@ flex-shrink: 0;
   width: 1320px;
 }
 
-.happy-new-year .group-15 {
+.happy-new-year .group15 {
   height: 336px;
   left: 212px;
   position: absolute;
@@ -537,7 +537,7 @@ flex-shrink: 0;
   width: 896px;
 }
 
-.happy-new-year .group-16 {
+.happy-new-year .group16 {
   height: 150px;
   left: 373px;
   position: absolute;
@@ -545,7 +545,7 @@ flex-shrink: 0;
   width: 150px;
 }
 
-.happy-new-year .group-17 {
+.happy-new-year .group17 {
   height: 146px;
   left: 0;
   position: absolute;
@@ -553,7 +553,7 @@ flex-shrink: 0;
   width: 900px;
 }
 
-.happy-new-year .text-wrapper-11 {
+.happy-new-year .textwrapper11 {
   color: #070211;
   font-family: "Merriweather-Black", Helvetica;
   font-size: 48px;
@@ -566,7 +566,7 @@ flex-shrink: 0;
   top: 0;
 }
 
-.happy-new-year .text-wrapper-12 {
+.happy-new-year .textwrapper12 {
   color: #07021199;
   font-family: "Inter-Regular", Helvetica;
   font-size: 20px;
@@ -580,7 +580,7 @@ flex-shrink: 0;
   width: 896px;
 }
 
-.happy-new-year .overlap-wrapper {
+.happy-new-year .overlapwrapper {
   height: 72px;
   left: 336px;
   position: absolute;
@@ -588,12 +588,12 @@ flex-shrink: 0;
   width: 650px;
 }
 
-.happy-new-year .overlap-2 {
+.happy-new-year .overlap2 {
   height: 72px;
   position: relative;
 }
 
-.happy-new-year .rectangle-7 {
+.happy-new-year .rectangle7 {
   background-color: #ffffff;
   border-radius: 50px;
   height: 72px;
@@ -603,7 +603,7 @@ flex-shrink: 0;
   width: 648px;
 }
 
-.happy-new-year .text-wrapper-13 {
+.happy-new-year .textwrapper13 {
   color: #0702114c;
   font-family: "Inter-Regular", Helvetica;
   font-size: 18px;
@@ -616,7 +616,7 @@ flex-shrink: 0;
   top: 25px;
 }
 
-.happy-new-year .group-18 {
+.happy-new-year .group18 {
   height: 72px;
   left: 438px;
   position: absolute;
@@ -624,7 +624,7 @@ flex-shrink: 0;
   width: 212px;
 }
 
-.happy-new-year .overlap-group-2 {
+.happy-new-year .overlapgroup2 {
   background-color: #ff0000;
   border-radius: 0px 50px 50px 0px;
   height: 72px;
@@ -632,7 +632,7 @@ flex-shrink: 0;
   width: 210px;
 }
 
-.happy-new-year .text-wrapper-14 {
+.happy-new-year .textwrapper14 {
   color: #ffffff;
   font-family: "Inter-SemiBold", Helvetica;
   font-size: 20px;
@@ -646,7 +646,7 @@ flex-shrink: 0;
   white-space: nowrap;
 }
 
-.happy-new-year .overlap-3 {
+.happy-new-year .overlap3 {
   height: 465px;
   left: 140px;
   position: absolute;
@@ -654,7 +654,7 @@ flex-shrink: 0;
   width: 1320px;
 }
 
-.happy-new-year .group-19 {
+.happy-new-year .group19 {
   height: 463px;
   left: 0;
   position: absolute;
@@ -662,7 +662,7 @@ flex-shrink: 0;
   width: 1320px;
 }
 
-.happy-new-year .group-20 {
+.happy-new-year .group20 {
   height: 255px;
   left: 0;
   position: absolute;
@@ -670,7 +670,7 @@ flex-shrink: 0;
   width: 395px;
 }
 
-.happy-new-year .group-21 {
+.happy-new-year .group21 {
   height: 105px;
   left: 0;
   position: absolute;
@@ -678,7 +678,7 @@ flex-shrink: 0;
   width: 332px;
 }
 
-.happy-new-year .text-wrapper-15 {
+.happy-new-year .textwrapper15 {
   color: #ff0000;
   font-family: "Inter-Medium", Helvetica;
   font-size: 24px;
@@ -691,7 +691,7 @@ flex-shrink: 0;
   top: 0;
 }
 
-.happy-new-year .text-wrapper-16 {
+.happy-new-year .textwrapper16 {
   color: #07021199;
   font-family: "Inter-Regular", Helvetica;
   font-size: 20px;
@@ -704,7 +704,7 @@ flex-shrink: 0;
   width: 393px;
 }
 
-.happy-new-year .group-22 {
+.happy-new-year .group22 {
   height: 463px;
   left: 463px;
   position: absolute;
@@ -712,7 +712,7 @@ flex-shrink: 0;
   width: 463px;
 }
 
-.happy-new-year .overlap-group-3 {
+.happy-new-year .overlapgroup3 {
   border-radius: 231.5px;
   height: 463px;
   position: relative;
@@ -726,7 +726,7 @@ flex-shrink: 0;
   width: 365px;
 }
 
-.happy-new-year .ellipse-2 {
+.happy-new-year .ellipse2 {
   border: 15px solid;
   border-color: #ff0000;
   border-radius: 231.5px;
@@ -737,7 +737,7 @@ flex-shrink: 0;
   width: 463px;
 }
 
-.happy-new-year .group-23 {
+.happy-new-year .group23 {
   height: 170px;
   left: 1044px;
   position: absolute;
@@ -745,13 +745,13 @@ flex-shrink: 0;
   width: 276px;
 }
 
-.happy-new-year .group-24 {
+.happy-new-year .group24 {
   height: 170px;
   position: relative;
   width: 280px;
 }
 
-.happy-new-year .text-wrapper-17 {
+.happy-new-year .textwrapper17 {
   color: #ff0000;
   font-family: "Inter-Bold", Helvetica;
   font-size: 48px;
@@ -763,7 +763,7 @@ flex-shrink: 0;
   top: 0;
 }
 
-.happy-new-year .text-wrapper-18 {
+.happy-new-year .textwrapper18 {
   color: #07021199;
   font-family: "Inter-Regular", Helvetica;
   font-size: 20px;
@@ -776,7 +776,7 @@ flex-shrink: 0;
   width: 276px;
 }
 
-.happy-new-year .group-25 {
+.happy-new-year .group25 {
   height: 140px;
   left: 1044px;
   position: absolute;
@@ -784,7 +784,7 @@ flex-shrink: 0;
   width: 140px;
 }
 
-.happy-new-year .group-26 {
+.happy-new-year .group26 {
   height: 986px;
   left: 140px;
   position: absolute;
@@ -792,12 +792,12 @@ flex-shrink: 0;
   width: 1320px;
 }
 
-.happy-new-year .overlap-4 {
+.happy-new-year .overlap4 {
   height: 986px;
   position: relative;
 }
 
-.happy-new-year .group-27 {
+.happy-new-year .group27 {
   height: 986px;
   left: 0;
   position: absolute;
@@ -805,7 +805,7 @@ flex-shrink: 0;
   width: 1320px;
 }
 
-.happy-new-year .group-28 {
+.happy-new-year .group28 {
   height: 662px;
   left: 0;
   position: absolute;
@@ -813,7 +813,7 @@ flex-shrink: 0;
   width: 1320px;
 }
 
-.happy-new-year .overlap-group-4 {
+.happy-new-year .overlapgroup4 {
   background-image: url(../resources/Rectangle\ 1.png);
   background-repeat: no-repeat;
   background-position-x: right;
@@ -821,7 +821,7 @@ flex-shrink: 0;
   position: relative;
 }
 
-.happy-new-year .rectangle-8 {
+.happy-new-year .rectangle8 {
   height: 229px;
   left: 0;
   position: absolute;
@@ -829,14 +829,14 @@ flex-shrink: 0;
   width: 1320px;
 }
 
-.happy-new-year .group-29 {
+.happy-new-year .group29 {
   height: 662px;
   left: 0;
   position:absolute;
   top: 0;
   width: 796px;
 }
-.happy-new-year .group-44444 {
+.happy-new-year .group44444 {
   width: 206.841px;
 height: 206.841px;
 flex-shrink: 0;
@@ -844,7 +844,7 @@ margin-left: 60%;
 margin-top: 10%;
 }
 
-.happy-new-year .group-30 {
+.happy-new-year .group30 {
   height: 260px;
   left: 126px;
   position: absolute;
@@ -852,7 +852,7 @@ margin-top: 10%;
   width: 1070px;
 }
 
-.happy-new-year .group-31 {
+.happy-new-year .group31 {
   height: 136px;
   left: 195px;
   position: absolute;
@@ -860,13 +860,13 @@ margin-top: 10%;
   width: 677px;
 }
 
-.happy-new-year .group-32 {
+.happy-new-year .group32 {
   height: 136px;
   position: relative;
   width: 681px;
 }
 
-.happy-new-year .text-wrapper-19 {
+.happy-new-year .textwrapper19 {
   color: #070211;
   font-family: "Inter-Medium", Helvetica;
   font-size: 24px;
@@ -878,7 +878,7 @@ margin-top: 10%;
   top: 0;
 }
 
-.happy-new-year .holidays-sale {
+.happy-new-year .holidayssale {
   color: transparent;
   font-family: "Merriweather-Black", Helvetica;
   font-size: 72px;
@@ -906,11 +906,11 @@ margin-bottom: 40px;/* 160% */
   color: #ff0000;
 }
 
-.happy-new-year .text-wrapper-20 {
+.happy-new-year .textwrapper20 {
   color: #070211;
 }
 
-.happy-new-year .dolor-sit-amet {
+.happy-new-year .dolorsitamet {
   color: #07021199;
   font-family: "Inter-Medium", Helvetica;
   font-size: 20px;
@@ -924,7 +924,7 @@ margin-bottom: 40px;/* 160% */
   width: 1068px;
 }
 
-.happy-new-year .group-33 {
+.happy-new-year .group33 {
   height: 433px;
   left: 738px;
   position: absolute;
@@ -932,12 +932,12 @@ margin-bottom: 40px;/* 160% */
   width: 582px;
 }
 
-.happy-new-year .overlap-5 {
+.happy-new-year .overlap5 {
   height: 433px;
   position: relative;
 }
 
-.happy-new-year .rectangle-9 {
+.happy-new-year .rectangle9 {
   height: 433px;
   left: 153px;
   position: absolute;
@@ -945,7 +945,7 @@ margin-bottom: 40px;/* 160% */
   width: 429px;
 }
 
-.happy-new-year .group-34 {
+.happy-new-year .group34 {
   height: 306px;
   left: 0;
   position: absolute;
@@ -953,7 +953,7 @@ margin-bottom: 40px;/* 160% */
   width: 306px;
 }
 
-.happy-new-year .group-36 {
+.happy-new-year .group36 {
   height: 272px;
   left: 385px;
   position: relative;
@@ -961,7 +961,7 @@ margin-bottom: 40px;/* 160% */
   width: 551px;
 }
 
-.happy-new-year .place-new-park-hotel {
+.happy-new-year .placenewparkhotel {
   color: transparent;
   font-family: "Inter-SemiBold", Helvetica;
   font-size: 32px;
@@ -974,7 +974,7 @@ margin-bottom: 40px;/* 160% */
   top: 0;
 }
 
-.happy-new-year .join-now-wrapper {
+.happy-new-year .joinnowwrapper {
   align-items: center;
   background-color: #ff0000;
   border-radius: 8px;
@@ -987,7 +987,7 @@ margin-bottom: 40px;/* 160% */
   top: 216px;
 }
 
-.happy-new-year .join-now {
+.happy-new-year .joinnow {
   color: #ffffff;
   font-family: "Inter-Bold", Helvetica;
   font-size: 20px;
