@@ -805,6 +805,9 @@ margin-top: 50px;
 }
 
 .landing-page-design .overlap-group-4 {
+  background-image: url(../resources/Rectangle\ 1.png);
+  background-repeat: no-repeat;
+  background-position-x: right;
   height: 662px;
   position: relative;
 }
@@ -823,6 +826,13 @@ margin-top: 50px;
   position:absolute;
   top: 0;
   width: 796px;
+}
+.landing-page-design .group-44444 {
+  width: 206.841px;
+height: 206.841px;
+flex-shrink: 0;
+margin-left: 60%;
+margin-top: 10%;
 }
 
 .landing-page-design .group-30 {
