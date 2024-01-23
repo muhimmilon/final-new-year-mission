@@ -69,20 +69,24 @@
     line-height: normal;
     position: absolute;
     text-align: center;
+    margin-bottom: 100px;
     top: 0;
   }
   
   .landing-page-design .text-wrapper-2 {
     color: #070211;
-    font-family: "Inter-Bold", Helvetica;
-    font-size: 48px;
-    font-weight: 700;
-    left: 0;
-    letter-spacing: 0;
-    line-height: normal;
-    position: absolute;
-    text-align: center;
-    top: 45px;
+  font-family: "Inter-Bold", Helvetica;
+  font-size: 48px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 60px;
+  white-space: nowrap;
+
+
   }
   
   .landing-page-design .vector {
@@ -707,7 +711,7 @@
   .landing-page-design .group-29 {
     height: 662px;
     left: 0;
-    position: absolute;
+    position:absolute;
     top: 0;
     width: 796px;
   }
